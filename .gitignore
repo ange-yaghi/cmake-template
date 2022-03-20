@@ -1,0 +1,8 @@
+# Ignore default build directory
+build/
+
+# Ignore user's workspace
+workspace/
+
+# Ignore compile_commands.json file used for vim auto-completion
+compile_commands.json
